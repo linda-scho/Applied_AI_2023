@@ -22,11 +22,21 @@ The folders are structured as follows:
 ```bash
 .
 ├── Code
-│   ├── 1_Script_Cropping_images.ipynb
-│   ├── 2_Script_Preprocessing.ipynb
-│   ├── 3_Script_Preprocessing.ipynb
-│   ├── 4_Script_ExploratoryAnalysis.ipynb
-│   ├── 5_Script_CNN.ipynb
-│   └── 6_Script_SVM.ipynb
-├── README.md
-└── Report.pdf
+│   ├── 1.Lecture_Chipotle_pandas.ipynb
+│   ├── 1.Lecture_Plotting_matplotlib_and_seaborn.ipynb
+│   ├── 1.Lecture_numpy.ipynb
+│   ├── 2.Lecture_linear-regression.ipynb
+│   ├── 2.Lecture_logistic_regression.ipynb
+│   ├── 2.Lecture_logistic_regression.ipynb
+│   ├── 3.Lecture_dimensionality_reduction_clustering.ipynb
+│   ├── 4.Lecture_mlp_mnist_basic.ipynb
+│   ├── 4.Lecture_mlp_mnist_tensorflow_pytorch.ipynb
+│   ├── 5.Lecture_CNN.ipynb
+│   ├── 6.Lecture_augmentation.ipynb
+│   ├── 7.Lecture_DecisionTrees.ipynb
+│   ├── 8.Lecture_EnsembleMethods.ipynb
+│   └── 9.Lecture_Optimisation.ipynb
+└── README.md
+
+
+
