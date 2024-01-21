@@ -20,7 +20,6 @@ Linda Schombach
 The folders are structured as follows:
 
 ```bash
-.
 ├── Code
 │   ├── 1.Lecture_Chipotle_pandas.ipynb
 │   ├── 1.Lecture_Plotting_matplotlib_and_seaborn.ipynb
